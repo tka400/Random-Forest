@@ -1,6 +1,10 @@
-# Random-Forest
+## Random-Forest
 
 Leo Braiman's algorithm.  
+
+You can follow video on my YuoTube
+
+[![Alt text](https://img.youtube.com/vi/9dL3Uxw_Q0c/mq2.jpg)](https://www.youtube.com/watch?v=9dL3Uxw_Q0c)
 
 It is an enssemble of Decision Trees for regression and classification problem.
 The main idea is - base model should have low bias and high variance. But all trees in enssemble should not correlate to each over.
